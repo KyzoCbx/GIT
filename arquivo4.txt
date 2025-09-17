@@ -1,3 +1,8 @@
 linha 1
+<<<<<<< HEAD
 linha 2 - alterado pelo repositorio local
 git
+=======
+linha 2 - alterado por outra pessoa
+linha3
+>>>>>>> 9da5fad3ada34f181842ae3b3e26e5d044f27f49
